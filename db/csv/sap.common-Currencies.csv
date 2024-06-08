@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CODE,SYMBOL,NAME,DESCR
 EUR,€,Euro,European Euro
 USD,$,US Dollar,United States Dollar
@@ -9,4 +10,17 @@ INR,₹,Rupee,Indian Rupee
 QAR,﷼,Riyal,Katar Riyal
 SAR,﷼,Riyal,Saudi Riyal
 JPY,¥,Yen,Japanese Yen
+=======
+CODE,SYMBOL,NAME,DESCR
+EUR,€,Euro,European Euro
+USD,$,US Dollar,United States Dollar
+CAD,$,Canadian Dollar,Canadian Dollar
+AUD,$,Australian Dollar,Canadian Dollar
+GBP,£,British Pound,Great Britain Pound
+ILS,₪,Shekel,Israeli New Shekel
+INR,₹,Rupee,Indian Rupee
+QAR,﷼,Riyal,Katar Riyal
+SAR,﷼,Riyal,Saudi Riyal
+JPY,¥,Yen,Japanese Yen
+>>>>>>> origin/main
 CNY,¥,Yuan,Chinese Yuan Renminbi
